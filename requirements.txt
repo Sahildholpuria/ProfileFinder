@@ -1,0 +1,6 @@
+pwnedpasswords
+requests
+PyInquirer
+jinja2
+argparse
+beautifulsoup4
